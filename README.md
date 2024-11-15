@@ -4,7 +4,7 @@ Submitted by: **Zorah Neal**
 
 **BitFit** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
